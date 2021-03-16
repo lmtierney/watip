@@ -47,4 +47,4 @@ Send a question to the `Nerodia-General <https://groups.google.com/forum/#!forum
 Join our Slack channel
 ======================
 
-Slack has created a special slack server for the Selenium and Watir (including Nerodia) communities. You can join our Slack channel by sending Slack your email `here <http://seleniumhq.herokuapp.com/>`_. You will be sent an invitation with instructions on how to join.
+Selenium has created a special slack server for the Selenium and Watir (including Nerodia) communities. You can join our Slack channel `here <https://join.slack.com/t/seleniumhq/shared_invite/zt-f7jwg1n7-RVw4v4sMA7Zjufira_~EVw>`_
